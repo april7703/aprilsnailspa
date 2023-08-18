@@ -77,6 +77,11 @@ button {
     cursor: pointer;
 }
 
+button a{
+	text-decoration: none;
+	color: white;
+}
+
 #button-fix{
 	margin-bottom: 2vw;
 }
