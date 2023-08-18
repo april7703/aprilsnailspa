@@ -69,12 +69,17 @@ textarea {
 }
 
 button {
+	margin-right: 30%;
 	float: center;
     padding: 0.7vw;
     background-color: #333;
     color: #fff;
     border: none;
     cursor: pointer;
+}
+button a{
+	text-decoration: none;
+	color: white;
 }
 
 #button-fix{
