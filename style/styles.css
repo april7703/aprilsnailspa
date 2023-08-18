@@ -360,7 +360,7 @@ h2{
 
 #navbar-container {
 	/* position: fixed; */
-	width: 25%;
+	width: 13%;
 	margin-top: 2%;
 	padding: 0;
 }
@@ -378,7 +378,7 @@ h2{
   border-radius: 5vw;
   border-color: white;
   position: relative;
-  margin-right: 2%;
+  margin-right: 0%;
   float: right;
 }
 #navbar-container  ul li a {
@@ -386,7 +386,7 @@ h2{
   padding: 5px;
   color: black;
   font-weight: bold;
-  font-size: 5vw;
+  font-size: 4.8vw;
   text-decoration: none;
 }
 
