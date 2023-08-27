@@ -189,7 +189,9 @@ button:hover {
 	font-size: 1.9vw;
 }
 
-
+#online-booking{
+	text-align: center;
+}
 
 /*service page*/
 .pg2{
